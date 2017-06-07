@@ -1,5 +1,14 @@
 nav li {
   list-style: none;
-  display: inline; }
+  display: inline-block; }
+
+ul {
+  padding: 0; }
+
+.left {
+  float: left; }
+
+.right {
+  float: right; }
 
 /*# sourceMappingURL=output.css.map */
