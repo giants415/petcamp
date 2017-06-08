@@ -1,9 +1,12 @@
-nav li {
-  list-style: none;
-  display: inline-block; }
-
-ul {
-  padding: 0; }
+header {
+  background-color: blue;
+  height: 50px;
+  width: 100%; }
+  header ul {
+    padding: 0; }
+  header li {
+    list-style: none;
+    display: inline-block; }
 
 .left {
   float: left; }
